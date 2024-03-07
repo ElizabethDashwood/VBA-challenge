@@ -66,10 +66,8 @@ Executing program
         'Reset the stock_volume
          stock_volume = 0
         
-    End If
-    
+    End If    
   Next i
-
 End Sub
 
 
