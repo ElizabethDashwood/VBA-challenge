@@ -72,7 +72,6 @@ Sub VBA_Challenge_Stock_data()
 
 End Sub
 
-
 This produces the following output on the 2018 tab of the excel spreadsheet ''Multiple_year_stock_data'.xlsm'
 which appears as follows:
 ![image](https://github.com/ElizabethDashwood/VBA-challenge/assets/160380658/16fea123-9213-49c3-9339-06874e9d22ba)
