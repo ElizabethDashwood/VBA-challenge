@@ -24,6 +24,7 @@ Executing program
 
     'Set column widths to fit new headings
     Columns("I:L").AutoFit
+    'Reference: https://analysistabs.com/excel-vba/change-row-height-column-width/
     
         'Set variable to store the ticker code
         Dim Ticker As String
@@ -71,10 +72,11 @@ Executing program
 
 End Sub
 
+
 This produces the following output on the 2018 tab of the excel spreadsheet ''Multiple_year_stock_data'.xlsm'
 which appears as follows:
 ![image](https://github.com/ElizabethDashwood/VBA-challenge/assets/160380658/16fea123-9213-49c3-9339-06874e9d22ba)
 
 Help:
 Only Steps 1 and 4 of this challenge have been completed to date. 
-A later submission will include all completed steps
+A later re-submission for this module will include all completed steps
